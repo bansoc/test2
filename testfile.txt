@@ -1,2 +1,3 @@
 abcd
-I am changing my file again, creating conflict
+I am changing my file again, creating conflict succeded
+I am changing through gui
