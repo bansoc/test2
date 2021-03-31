@@ -1,2 +1,2 @@
 abcd
-I am changing my file again
+I am changing my file again, creating conflict
